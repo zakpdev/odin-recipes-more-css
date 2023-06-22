@@ -1,36 +1,20 @@
 # odin-recipes
 
-This is an updated version of the basic recipe site from the final project of the HTML Foundations unit of the Odin Project's Foundations path.  
+This is v3 of the basic recipe site from the final project of the HTML Foundations unit of The Odin Project's Foundations path.  
 
 Topics explored/demonstrated in this unit include:
 
-Basic CSS syntax
+The Box Model
 
-The Universal Selector
-
-Type Selectors
-
-Class Selectors
-
-ID Selectors
-
-Grouping Selectors
-
-Chaining Selectors
-
-Descendents
-
-Declaration Order
-
-Specificity
-
-The Cascade
+The display: property
 
 For more about this project:
 
 https://www.theodinproject.com/lessons/foundations-recipes
 
 https://www.theodinproject.com/lessons/foundations-the-cascade
+
+https://www.theodinproject.com/lessons/foundations-block-and-inline
 
 For more about the Odin Project generally:
 

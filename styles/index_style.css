@@ -1,0 +1,15 @@
+body {
+    background-color: #FFCC99;
+}
+
+a {
+    font-size: 40px;
+}
+
+.pan a {
+    font-weight: bold;
+}
+
+.gibson a {
+    font-style: italic;
+}
